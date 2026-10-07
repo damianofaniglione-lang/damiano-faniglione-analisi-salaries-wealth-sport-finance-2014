@@ -3,7 +3,7 @@ Analisi interattiva degli stipendi dei team sportivi e degli atleti più pagati 
 # Analisi Personalizzata Guadagni nello Sport del 2014
 
 ## Link al Progetto Interattivo
-**[CLICCA QUI PER VISUALIZZARE LA DASHBOARD SU TABLEAU PUBLIC]([INCOLLA_QUI_IL_TUO_LINK_DI_TABLEAU](https://public.tableau.com/app/profile/damiano.faniglione/viz/AnalisiPersonalizzataGuadagninelloSportdel2014/AnalisiSpesedeiTeamnel2014)**
+**[CLICCA QUI PER VISUALIZZARE LA DASHBOARD SU TABLEAU PUBLIC](https://public.tableau.com/app/profile/damiano.faniglione/viz/AnalisiPersonalizzataGuadagninelloSportdel2014/AnalisiSpesedeiTeamnel2014)**
 
 ---
 
